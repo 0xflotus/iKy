@@ -39,7 +39,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 kombu==4.6.10
 langdetect==1.0.8
-lxml==4.5.2
+lxml==4.6.2
 MarkupSafe==1.1.1
 multidict==4.7.6
 numpy==1.18.5
